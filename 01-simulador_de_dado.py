@@ -1,6 +1,6 @@
 '''Sugestão incrementos ao projeto:
 1 - Colocar uma inteface gráfica simples.
-2 - Colocar o simulador dentro de um looping com pergunta de 'Deseja continuar?''''
+2 - Colocar o simulador dentro de um looping com pergunta de 'Deseja continuar?'''
 
 
 import random 
@@ -15,7 +15,8 @@ class SimuladorDeDado:
         
         try:
             if res == 'sim' or res =='s':
-                self.GerarValorDoDado()                                   
+                print('Número:', end=' ')
+                self.ValorDoDado()                                   
             elif res == 'não' or res == 'n':
                 print('Agradecemos sua participação. Volte novamente em breve!')
             else:
@@ -24,7 +25,7 @@ class SimuladorDeDado:
             print('Ocorreu um erro ao receber sua resposta')
 
 
-    def GerarValorDoDado(self):
+    def ValorDoDado(self):
         print(random.randint(self.valor_minimo, self.valor_maximo))      
 
   
