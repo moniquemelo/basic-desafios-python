@@ -16,3 +16,11 @@ Crie um script que responda qualquer pergunta que for feita a ele. Recomendo ter
 
 - [X] **4º - JOGO DE ESCOLHAS:** 
 Crie um jogo que levará o usuário a vários possíveis finais de acordo com as respostas que forem passadas para ele.
+Aqui eu fiz uma pequena adaptação usando o cenário de League of Legends, onde o sistema sugere campeões para o usário jogar baseado nas proprias escolhas dele.
+Foi traçada uma pequena lista abaixo, sem muito critério e de maneira simplificada:
+
+Campeões de Noxus Top: Darius(Tank), Sion(Tank), Kled(Lutador), Riven(Lutadora), Sion(Tank).
+Campeões de Noxus Mid: Cassiopeia(Mago), Katarina (Assassina), Leblanc(Assassina), Swain(Mago), Vladimir(Mago).
+
+Campeões de Demacia Top: Garen(tank), Kayle(Mago), Fiora(Lutadora) Poppy(Tank)
+Campeões de Demacia Mid: Sylas(Mago), Lux(Mago), Morgana(Mago), Galio(Tank)
