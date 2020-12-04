@@ -1,13 +1,3 @@
-'''O objetivo desse jogo é sugerir algum campeão do League of Legends para o usuário jogar de acordo com suas preferencias.
-Foi traçada uma pequena lista abaixo, sem muito critério e de maneira simplificada:
-
-Campeões de Noxus Top: Darius(Tank), Sion(Tank), Kled(Lutador), Riven(Lutadora), Sion(Tank).
-Campeões de Noxus Mid: Cassiopeia(Mago), Katarina (Assassina), Leblanc(Assassina), Swain(Mago), Vladimir(Mago).
-
-Campeões de Demacia Top: Garen(tank), Kayle(Mago), Fiora(Lutadora) Poppy(Tank)
-Campeões de Demacia Mid: Sylas(Mago), Lux(Mago), Morgana(Mago), Galio(Tank)
-'''
-
 class JogoDeEscolhas:
     def __init__(self):
         self.pergunta1 = 'Você quer seu campeão de Noxus ou Demacia? '
@@ -18,12 +8,13 @@ class JogoDeEscolhas:
         self.desfecho2 = '\033[32mVocê poderá jogar com Sion e Darius...\033[m'
         self.desfecho3 = '\033[32mVocê poderá jogar com Cassiopeia e Swain...\033[m'
         self.desfecho4 = '\033[32mVocê poderá jogar com Vladimir...\033[m'
+        #Desfecho Noxus
         self.desfecho5 = '\033[32mVocê poderá jogar com Galio...'
         self.desfecho6 = '\033[32mVocê poderá jogar com Poppy e Garen...\033[m'
         self.desfecho7 = '\033[32mVocê poderá jogar com Morgana, Sylas e Lux...\033[m'
         self.desfecho8 = '\033[32mVocê poderá jogar com Kayle...\033[m'
 
-        #Desfecho Demacia
+        
     
     def Iniciar(self):
         print('-='* 20)
