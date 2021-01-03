@@ -1,7 +1,7 @@
 # DESAFIOS EM PYTHON COM POO
 Realização de alguns desafios com finalidade de aprendizado e prática de POO, Funções, entre outros. Realizei alguns desafios conhecidos como (Simulador de Dado e Chute um Número), além de resolver todos os exercicios da lista de exercicios disponibilizada pelo Python Brasil no seguinte link: https://wiki.python.org.br/ExerciciosClasses
 
-**DETALHES SOBRE OS DESAFIOS:**
+**APLICAÇÕES EXTRAS:**
 
 - [X] **1º - SIMULADOR DE DADO:** 
 Gerar um valor aleatório entre 1 e 6 e permitir que o usuário rode o programa quantas vezes quiser.
