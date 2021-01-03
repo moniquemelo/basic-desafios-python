@@ -1,0 +1,55 @@
+[33mcommit 3399bff207148ea03fb577497660b2d66b3af8af[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 409c513 4526e0e
+Author: moniquemelo <jmoniquemelo@gmail.com>
+Date:   Fri Dec 4 16:12:02 2020 -0300
+
+    Merge branch 'main' of https://github.com/moniquemelo/basic-desafios-python into main
+
+[33mcommit 409c5137741164e984e13623d190c465190b688a[m
+Author: moniquemelo <jmoniquemelo@gmail.com>
+Date:   Fri Dec 4 16:11:57 2020 -0300
+
+    Update 04-jogo_de_escolhas.py
+
+[33mcommit 4526e0e3d3aeeafa43c56e930968deec9bd31a55[m
+Author: moniquemelo <71858557+moniquemelo@users.noreply.github.com>
+Date:   Fri Dec 4 16:05:46 2020 -0300
+
+    Update README.md
+
+[33mcommit c1c721b3a4c27f1a574783918a724b49bd4cba7c[m
+Author: moniquemelo <71858557+moniquemelo@users.noreply.github.com>
+Date:   Fri Dec 4 15:50:05 2020 -0300
+
+    Update README.md
+
+[33mcommit 09604108e882d2f848d2906c8183a7812198fdc4[m
+Merge: fff427a d064b30
+Author: moniquemelo <jmoniquemelo@gmail.com>
+Date:   Fri Dec 4 15:33:58 2020 -0300
+
+    Merge branch 'main' of https://github.com/moniquemelo/basic-desafios-python into main
+
+[33mcommit fff427a5f9136f6147728793347e401debd08239[m
+Author: moniquemelo <jmoniquemelo@gmail.com>
+Date:   Fri Dec 4 15:33:52 2020 -0300
+
+    commit
+
+[33mcommit d064b300bac2d4dcffcaef62e677ad1c362c2b10[m
+Author: moniquemelo <71858557+moniquemelo@users.noreply.github.com>
+Date:   Thu Dec 3 21:48:40 2020 -0300
+
+    Update README.md
+
+[33mcommit 93f87781d8daf975082ea1953a1c07a657bc6983[m
+Author: moniquemelo <jmoniquemelo@gmail.com>
+Date:   Thu Dec 3 18:36:26 2020 -0300
+
+    initial
+
+[33mcommit dd2ca361e15d3f1bf19ac724de0d22f0b0b59b48[m
+Author: moniquemelo <jmoniquemelo@gmail.com>
+Date:   Thu Dec 3 15:02:56 2020 -0300
+
+    Initial commit
